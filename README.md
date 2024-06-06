@@ -1,7 +1,7 @@
 # FAQ Application - Capstone
 
 ## Objective
-This project is a simple Question and Answer (Q&A) system designed for Northeast State to help facilitate efficient communication between the students and faculty. It allows users to submit questions, which can then be answered and approved by administrators. The system includes different panels for administrators to manage unapproved questions and user login functionality to access administrative features.
+This team project is a simple Question and Answer (Q&A) system designed for Northeast State to help facilitate efficient communication between the students and faculty. It allows users to submit questions, which can then be answered and approved by administrators. The system includes different panels for administrators to manage unapproved questions and user login functionality to access administrative features.
 
 ## Technologies Used
 - **PHP**: Backend scripting language for server-side logic.
